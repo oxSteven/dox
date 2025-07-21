@@ -2,3 +2,6 @@ site_name: Dox Prototype
 site_url: https://dox.com/
 theme:
   name: material
+extra:
+  version:
+    provider: mike
